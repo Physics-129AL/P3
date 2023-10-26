@@ -1,0 +1,5 @@
+commit c20cd116b0ef6c65b4ed8c23797d2bcbd21637f0
+Author: Zihang <stevezhwang@gmail.com>
+Date:   Fri Oct 13 18:04:42 2023 -0700
+
+    problem set 3
